@@ -1,2 +1,2 @@
 # Dev/Deployment
-requests==2.19.0
+requests==2.20.0
